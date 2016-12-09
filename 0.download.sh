@@ -1,0 +1,1 @@
+wget http://download.geofabrik.de/europe/russia-latest.osm.bz2 -O planet/planet.osm.bz2
