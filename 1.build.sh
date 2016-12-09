@@ -1,0 +1,1 @@
+docker build -t mediasuite/overpass-api:tst1 .
